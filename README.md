@@ -1,6 +1,9 @@
 Nama : Raudah Musrifa
+
 Nim : 312210020
+
 Kelas : TI22B1
+
 Mata Kuliah : Bahasa Pemrograman
 
 # Latihan Dictionary Pada Python
